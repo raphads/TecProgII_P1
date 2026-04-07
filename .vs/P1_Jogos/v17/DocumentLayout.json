@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|f:\\3sem\\dotnetcsharp\\p1_jogos\\p1_jogos\\cad_jogo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|solutionrelative:cad_jogo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_jogo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|solutionrelative:cad_jogo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|f:\\3sem\\dotnetcsharp\\p1_jogos\\p1_jogos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|solutionrelative:cad_cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F5B8B0DD-3BBD-48D1-AE9D-8C6FBD8252F8}|P1_Jogos.vbproj|solutionrelative:cad_cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-07T06:44:42.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cad_jogo.vb",
+              "DocumentMoniker": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_jogo.vb",
+              "RelativeDocumentMoniker": "cad_jogo.vb",
+              "ToolTip": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_jogo.vb",
+              "RelativeToolTip": "cad_jogo.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAIA2wAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-02T20:50:14.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cad_jogo.vb [Design]",
+              "DocumentMoniker": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_jogo.vb",
+              "RelativeDocumentMoniker": "cad_jogo.vb",
+              "ToolTip": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_jogo.vb [Design]",
+              "RelativeToolTip": "cad_jogo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-01T03:14:47.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cad_cliente.vb",
+              "DocumentMoniker": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_cliente.vb",
+              "RelativeDocumentMoniker": "cad_cliente.vb",
+              "ToolTip": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_cliente.vb",
+              "RelativeToolTip": "cad_cliente.vb",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAewK8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-01T03:27:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cad_cliente.vb [Design]",
+              "DocumentMoniker": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_cliente.vb",
+              "RelativeDocumentMoniker": "cad_cliente.vb",
+              "ToolTip": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\cad_cliente.vb [Design]",
+              "RelativeToolTip": "cad_cliente.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-01T03:07:07.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "F:\\3sem\\dotnetcsharp\\P1_jogos\\P1_Jogos\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwEIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-01T03:11:51.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
